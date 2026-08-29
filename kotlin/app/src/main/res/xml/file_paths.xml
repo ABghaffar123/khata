@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Reports directory for PDF/CSV exports -->
+    <files-path
+        name="reports"
+        path="reports/" />
+
+    <!-- Cache directory for temporary files -->
+    <cache-path
+        name="cache"
+        path="cache/" />
+
+    <!-- External files directory (if needed) -->
+    <external-files-path
+        name="external_files"
+        path="." />
+</paths>
